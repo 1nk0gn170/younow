@@ -1,3 +1,6 @@
+# Script wurde von Inkognito geschrieben
+# Github-URL: https://github.com/1nk0gn170
+
 import urllib.request
 import json
 import os
